@@ -1,2 +1,5 @@
 # BerkeleyBox
-CS505 Final Project
+ Fall 24 CS505 final project. You will find code, notes, and visuals to help you use and understand teh project. 
+
+## Table of Contents 
+TODO
