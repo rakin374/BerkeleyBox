@@ -11,3 +11,13 @@ Structure of this Repository
 - notebooks : contains code written in jupyter code 
 
 - source : contains raw source code that can can be used outside of an experimental setup
+
+
+
+## Motivations 
+- The goal of this project is to experiment with musical data to build models that can hopefully generate music 
+
+## .gitignore 
+- On your local repo place all data inside of a folder named 'data'. The point of 
+this is to have data is a single location we can target in the repo code. The ignore
+prevents data from being pusehd to github. 
