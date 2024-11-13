@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.30)  6 NOV 2024 16:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.30)  7 NOV 2024 08:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -332,7 +332,7 @@ File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count293
 \l__pdf_internal_box=\box53
 )
-No file m2.aux.
+(./m2.aux)
 \openout1 = `m2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
@@ -353,6 +353,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 78.
 LaTeX Font Info:    ... okay on input line 78.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 78.
 LaTeX Font Info:    ... okay on input line 78.
+
 (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count294
@@ -368,6 +369,7 @@ LaTeX Font Info:    ... okay on input line 78.
 \everyMPtoPDFconversion=\toks27
 )
 Package hyperref Info: Link coloring ON on input line 78.
+ (./m2.out) (./m2.out)
 \@outlinefile=\write3
 \openout3 = `m2.out'.
 
@@ -448,9 +450,6 @@ LaTeX Font Info:    Trying to load font information for U+lasy on input line 79
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 
-Package lineno Warning: Line number reference failed, re-run to get it right.
-
-
 Package natbib Warning: Citation `raffel2016lakhmidi' on page 1 undefined on in
 put line 96.
 
@@ -475,28 +474,21 @@ Package natbib Warning: There were undefined citations.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-
-
-Package rerunfilecheck Warning: File `m2.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `m2.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `m2.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 13577 strings out of 474116
- 218413 string characters out of 5743681
- 1961187 words of memory out of 5000000
- 35690 multiletter control sequences out of 15000+600000
+ 13591 strings out of 474116
+ 218545 string characters out of 5743681
+ 1959187 words of memory out of 5000000
+ 35698 multiletter control sequences out of 15000+600000
  584157 words of font info for 124 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  90i,10n,93p,1113b,467s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr
 /local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/tex
 live/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on m2.pdf (2 pages, 46089 bytes).
+Output written on m2.pdf (2 pages, 46103 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  29 compressed objects within 1 object stream

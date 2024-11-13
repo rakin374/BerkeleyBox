@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.30)  7 NOV 2024 08:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.30)  7 NOV 2024 10:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -432,22 +432,22 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `full_manuscript.out' has not changed.
-(rerunfilecheck)             Checksum: A6065FEFD9866223E4513D5C635C0CD4;831.
+(rerunfilecheck)             Checksum: 7B691C7A9E0FA0479CF79835792A4811;949.
  ) 
 Here is how much of TeX's memory you used:
- 11144 strings out of 474116
- 176527 string characters out of 5743681
+ 11148 strings out of 474116
+ 176577 string characters out of 5743681
  1933187 words of memory out of 5000000
- 33370 multiletter control sequences out of 15000+600000
+ 33372 multiletter control sequences out of 15000+600000
  576194 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,305b,445s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,405b,445s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/lo
 cal/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on full_manuscript.pdf (2 pages, 34350 bytes).
+Output written on full_manuscript.pdf (2 pages, 35258 bytes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
- 60 compressed objects within 1 object stream
- 14 named destinations out of 1000 (max. 500000)
- 65 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 77 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
+ 16 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
