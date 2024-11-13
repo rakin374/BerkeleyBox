@@ -21,3 +21,6 @@ Structure of this Repository
 - On your local repo place all data inside of a folder named 'data'. The point of 
 this is to have data is a single location we can target in the repo code. The ignore
 prevents data from being pusehd to github. 
+
+
+## Some notes on toolkits 
