@@ -1,5 +1,5 @@
 # About
-This is the final project for CS505: Introduction to Natural Processing. You will find code, notes, and visuals to help you use and understand the project. 
+This is the final project for CS505: Introduction to Natural Language Processing. You will find code, notes, and visuals to help you use and understand the project. 
 
 Contributors: Rakin Munim, Christopher Ziko
 
