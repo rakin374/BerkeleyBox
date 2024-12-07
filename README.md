@@ -15,7 +15,7 @@ Structure of this repository:
 - source : contains raw source code that can can be used outside of an experimental setup
 
 ## Motivations 
-- The goal of this project is to experiment with musical data (MIDI files) to build models that can generate music.
+- Our goal is to experiment with musical data (MIDI files) to build models that can generate music.
 
 ## .gitignore 
 - On your local repo place all data inside of a folder named 'data'. The point of 
