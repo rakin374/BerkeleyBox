@@ -1,0 +1,5 @@
+1. [MAESTRO Dataset](https://magenta.tensorflow.org/datasets/maestro)
+2. [J.S. Bach MIDI Dataset](https://www.kaggle.com/datasets/uwmads/js-bach-midi)
+3. [Classical Music Dataset (CMS)](https://www.midiworld.com/classical-midi/)
+4. [BachChorales Dataset](https://github.com/cs24/GenerativeModelBach)
+5. [The Tune Project](https://tuneproject.org/)

@@ -493,7 +493,7 @@
     },
     {
         "song": "Celine",
-        "classification": "I'm sorry, but I need more information about the song 'Celine' in order to classify it into three music genres or styles. Please provide details such as the tempo, instrumentation, vocal style, and overall feel of the song, so I can give you more accurate classifications."
+        "classification": "None"
     },
     {
         "song": "The Holly And The Ivy",
@@ -2089,7 +2089,7 @@
     },
     {
         "song": "Sisters",
-        "classification": "I'm sorry, but I need more details about the song \"Sisters\" to accurately classify it into three music genres or styles. Can you please provide me with information about the song such as the artist, instrumentation, tempo, and overall sound?"
+        "classification": "None"
     },
     {
         "song": "Southern Cross",
@@ -4689,7 +4689,7 @@
     },
     {
         "song": "Smoke.2",
-        "classification": "I'm sorry, but I am not able to classify 'Smoke.2' into three music genres or styles without additional information. Could you please provide more details about the song, such as its style, instrumentation, tempo, and other characteristics? This will help me accurately classify it into three genres or styles for you."
+        "classification": "None"
     },
     {
         "song": "Natural One",
